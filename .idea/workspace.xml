@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b15bc48-5b86-430e-b0b7-79a90720d8c3" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,19 +29,6 @@
               <caret line="28" column="54" lean-forward="false" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResponseVo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-common/src/main/java/com/benxiaohai/user/common/response/ResponseVo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="83" column="29" lean-forward="false" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
-              <folding>
-                <element signature="e#1749#1750#0" expanded="true" />
-                <element signature="e#1796#1797#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,11 +112,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user-api/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="150">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -342,32 +340,6 @@
               <item name="user-center" type="b2602c69:ProjectViewProjectNode" />
               <item name="user-center" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="user-center" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="user-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="user-center" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="user-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="user-center" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="user-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="user-center" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user-center" type="462c0819:PsiDirectoryNode" />
-              <item name="user-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -403,11 +375,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\user-center" />
       <recent name="F:\IdeaProjects\user-center\user-facade\src\main\java\com\benxiaohai\user\facade" />
       <recent name="F:\IdeaProjects\user-center\user-common\src\main\java\com\benxiaohai\user\common" />
       <recent name="F:\IdeaProjects\user-center\user-dal\src\main\resources\mybatis\mapper\ext" />
       <recent name="F:\IdeaProjects\user-center\user-api\src\main\resources" />
-      <recent name="F:\IdeaProjects\user-center\user-api\src\main\java\com\benxiaohai\user\api" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.benxiaohai.user.service" />
@@ -678,7 +650,7 @@
       <updated>1555659868895</updated>
       <workItem from="1555659875402" duration="21522000" />
       <workItem from="1556069201707" duration="19260000" />
-      <workItem from="1557042267954" duration="25577000" />
+      <workItem from="1557042267954" duration="25777000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1557453423666</created>
@@ -687,7 +659,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557453423667</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <created>1557453447536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557453447536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -723,7 +702,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66359000" />
+    <option name="totallyTimeSpent" value="66559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -780,14 +759,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/user-dal/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="52" lean-forward="true" selection-start-line="85" selection-start-column="52" selection-end-line="85" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/benxiaohai/user/api/swagger/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1219,8 +1190,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user-api/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
