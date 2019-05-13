@@ -27,7 +27,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.benxiaohai</groupId>
-			<artifactId>user-dal</artifactId>
+			<artifactId>user-facade</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
